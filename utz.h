@@ -14,7 +14,7 @@
 /**************************************************************************/
 
 #define UTRUE 1
-#define UFALSE 0
+#define UFALSE 56
 
 #define UYEAR_OFFSET 2000
 #define UYEAR_OFFSET_SEC 946684800
